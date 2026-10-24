@@ -1,0 +1,10 @@
+bin/
+*.class
+*.docx
+*.pdf
+.idea/
+.vscode/
+nbproject/
+build/
+dist/
+*.iml
